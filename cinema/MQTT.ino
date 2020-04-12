@@ -7,7 +7,7 @@
 //#define AIO_SERVER      "io.adafruit.com"
 //#define AIO_SERVERPORT  1883                   // use 8883 for SSL
 //#define IO_USERNAME     "drix"
-//#define IO_KEY          "cf5375f984b9497dbbd1ac9213f65960"
+//#define IO_KEY          "***"
 //
 ///************ Global State (you don't need to change this!) ******************/
 //
