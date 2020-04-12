@@ -1,0 +1,71 @@
+Projector
+
+Raw samples(68): Gap:22966
+  Head: m8850  s4450
+0:m550  s600	1:m500  s600	2:m500  s600	3:m500  s1700		 
+4:m550  s600	5:m500  s600	6:m500  s600	7:m500  s600		 
+8:m500  s1700	9:m550  s1700	10:m500 s600	11:m500 s600		 
+12:m500 s1700	13:m550 s600	14:m500 s600	15:m500 s600		 
+
+16:m500 s1700	17:m550 s1650	18:m550 s1700	19:m500 s600		 
+20:m500 s600	21:m550 s550	22:m550 s600	23:m500 s1700		 
+24:m500 s600	25:m500 s600	26:m550 s550	27:m550 s1700		 
+28:m500 s1700	29:m500 s1700	30:m550 s1700	31:m500 s600		 
+
+32:m500
+Extent=62600
+Mark  min:500	 max:550
+Space min:550	 max:1700
+
+Comands
+
+Menu
+Decoded NEC(1): Value:10C821DE (32 bits) Only once than FFFFFFFF
+
+POWER
+Decoded NEC(1): Value:10C8E11E (32 bits) Only once than FFFFFFFF
+
+> right
+Decoded NEC(1): Value:10C8817E (32 bits) 3 times than FFFFFFFF
+
+< left
+Decoded NEC(1): Value:10C8C13E (32 bits) 3 times than FFFFFFFF
+
+up
+Decoded NEC(1): Value:10C841BE (32 bits) 3 times than FFFFFFFF
+
+down
+Decoded NEC(1): Value:10C8A15E (32 bits) 3 times than FFFFFFFF
+
+vga
+Decoded NEC(1): Value:10C8C53A (32 bits) Only once than FFFFFFFF
+
+video
+Decoded NEC(1): Value:10C825DA (32 bits) Only once than FFFFFFFF
+
+resync
+Decoded NEC(1): Value:10C8B14E (32 bits) Only once than FFFFFFFF
+
+zoon
+Decoded NEC(1): Value:10C8D12E (32 bits) Only once than FFFFFFFF
+
+source
+Decoded NEC(1): Value:10C831CE (32 bits) Only once than FFFFFFFF
+
+freeze
+Decoded NEC(1): Value:10C8718E (32 bits) Only once than FFFFFFFF
+
+Aspect
+Decoded NEC(1): Value:10C806F9 (32 bits) Only once than FFFFFFFF
+
+hide
+Decoded NEC(1): Value:10C8F10E (32 bits) Only once than FFFFFFFF
+
+power
+Decoded NEC(1): Value:10C8E11E (32 bits) Only once than FFFFFFFF
+
+E
+Decoded NEC(1): Value:10C801FE (32 bits) Only once than FFFFFFFF
+
+
+
